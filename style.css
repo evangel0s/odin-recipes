@@ -1,4 +1,14 @@
-#photo{
-max-width:600px;
-max-height:400px;
+
+
+.bold{
+    font-weight:bolder;
+    font-size:larger;
+    display:flex;
+    
+    
+}
+
+#a{
+    margin:30px;
+    text-align: left;
 }
